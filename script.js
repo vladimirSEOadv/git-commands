@@ -1,1 +1,1 @@
-document.querySelector("body").innerText("A")
+document.querySelector(".root").innerText = "Script JS text"
